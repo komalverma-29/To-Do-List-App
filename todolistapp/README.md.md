@@ -47,14 +47,17 @@ Run the application
 ## Screenshots
 
 Pink Theme Interface:
+
 ![App Screenshot](https://i.postimg.cc/8zDK2BQR/Screenshot-2025-07-05-221727.png)
 
 ![App Screenshot](https://i.postimg.cc/gjmsCm1Y/Screenshot-2025-07-05-223631.png)
 
 Blue Theme Interface:
+
 ![App Screenshot](https://i.postimg.cc/hvssgNqV/Screenshot-2025-07-05-223723.png)
 
 Drag-and-Drop Demonstration:
+
 ![App Screenshot](https://i.postimg.cc/CMsmjnfd/Screenshot-2025-07-05-223753.png)
 
 
