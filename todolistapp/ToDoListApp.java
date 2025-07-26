@@ -538,7 +538,7 @@ class ToDoListPage extends JPanel {
             }
             taskList.updateNumbers();
         } catch (IOException | ClassNotFoundException ex) {
-            // File doesn't exist yet or is empty - that's okay
+           
         }
     }
 
